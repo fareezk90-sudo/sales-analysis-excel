@@ -1,2 +1,19 @@
-# sales-analysis-excel
-Sales data analysis and interactive dashboard created using Microsoft Excel, including data cleaning, Pivot Tables, KPIs, charts, and sales performance analysis.
+# 📊 Sales Analysis Using Excel
+
+An Excel-based sales analysis project focused on **data cleaning, analysis, KPIs, Pivot Tables, charts, and dashboard creation**.
+
+### 🛠️ Tools Used
+- Microsoft Excel
+- Pivot Tables & Charts
+- Excel Formulas
+- Data Cleaning
+- Data Visualization
+
+### 📈 Key Analysis
+- Sales Performance
+- Product-wise Sales
+- Regional Analysis
+- Sales Trends
+- KPI Dashboard
+
+**Author:** Fareez Khan
